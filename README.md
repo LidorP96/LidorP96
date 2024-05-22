@@ -21,8 +21,7 @@ You can view my CV [here](https://drive.google.com/file/d/1dbQEaInS0rujdGNeY9kWx
 
 ## 🎯 Objective
 
-This repository demonstrates my knowledge across various technical domains acquired through years of study.  
-I will showcase my proficiency in Linux, cloud computing, and cybersecurity.
+I'll showcase my Knowledge in a range of technical fields, including cybersecurity, cloud computing, and Linux.
 
 ---
 
