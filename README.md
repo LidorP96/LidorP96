@@ -1,16 +1,41 @@
-## Hi there 👋
+# whoami
 
-<!--
-**LidorP96/LidorP96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello!  
+My name is **Lidor**. I'm a highly motivated and detail-oriented individual working as Help Desk Support with experience in troubleshooting hardware and software issues.  
+I also have a solid foundation in managing Linux/Windows systems, cloud computing, and networking.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📄 CV
+
+You can view my CV [here](https://drive.google.com/file/d/1dbQEaInS0rujdGNeY9kWxF9CIeUey7pX/view?usp=sharing).
+
+---
+
+## 🏅 Certifications
+
+* **Azure Administrator Associate AZ104** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="Azure Icon" width="16" height="16"> - [Check out](https://www.credly.com/badges/0ccd5f03-a937-49da-b185-1d9a1d5b9965/public_url)
+* **Azure Fundamentals AZ900** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="Azure Icon" width="16" height="16"> - [Check out](https://www.credly.com/badges/3f09473a-e247-41f0-9968-20a1062cb0c2/public_url)
+
+---
+
+## 🎯 Objective
+
+This repository demonstrates my knowledge across various technical domains acquired through years of study.  
+I will showcase my proficiency in Linux, cloud computing, and cybersecurity.
+
+---
+
+## 💼 Projects
+
+### Project 2
+
+* **Description**: One-line description of the project.
+* **Technologies Used**: Key technologies used.
+* **Link to project**: [Link](URL of the project repo)
+
+### Project 2
+
+* **Description**: One-line description of the project.
+* **Technologies Used**: Key technologies used.
+* **Link to project**: [Link](URL of the project repo)
