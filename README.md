@@ -29,4 +29,4 @@ I'll showcase my Knowledge in a range of technical fields, including cybersecuri
 
 ### Linux Projects
 
-* [Install Kali 2024](https://github.com/LidorP96/Linux-Projects)
+* [Install Kali 2024.1](https://github.com/LidorP96/Linux-Projects)
