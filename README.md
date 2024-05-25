@@ -14,8 +14,8 @@ You can view my CV [here](https://drive.google.com/file/d/1dbQEaInS0rujdGNeY9kWx
 
 ## 🏅 Certifications
 
-* **Azure Administrator Associate AZ104** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="Azure Icon" width="16" height="16"> - [Check out](https://www.credly.com/badges/0ccd5f03-a937-49da-b185-1d9a1d5b9965/public_url)
-* **Azure Fundamentals AZ900** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="Azure Icon" width="16" height="16"> - [Check out](https://www.credly.com/badges/3f09473a-e247-41f0-9968-20a1062cb0c2/public_url)
+* **Azure Administrator Associate AZ104** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="Azure Icon" width="16" height="16"> - [Link](https://www.credly.com/badges/0ccd5f03-a937-49da-b185-1d9a1d5b9965/public_url)
+* **Azure Fundamentals AZ900** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="Azure Icon" width="16" height="16"> - [Link](https://www.credly.com/badges/3f09473a-e247-41f0-9968-20a1062cb0c2/public_url)
 
 ---
 
@@ -27,14 +27,6 @@ I'll showcase my Knowledge in a range of technical fields, including cybersecuri
 
 ## 💼 Projects
 
-### Project 2
+### Linux Projects
 
-* **Description**: One-line description of the project.
-* **Technologies Used**: Key technologies used.
-* **Link to project**: [Link](URL of the project repo)
-
-### Project 2
-
-* **Description**: One-line description of the project.
-* **Technologies Used**: Key technologies used.
-* **Link to project**: [Link](URL of the project repo)
+* [Install Kali 2024](https://github.com/LidorP96/Linux-Projects)
