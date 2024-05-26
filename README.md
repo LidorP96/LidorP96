@@ -8,7 +8,7 @@ I also have a solid foundation in managing Linux/Windows systems, cloud computin
 
 ## 📄 CV
 
-You can view my CV [here](https://drive.google.com/file/d/1dbQEaInS0rujdGNeY9kWxF9CIeUey7pX/view?usp=sharing).
+You can view my CV [here](https://drive.google.com/file/d/1vLhjgrglG1wuhy1MOACjG6I2Dj7cS-_E/view?usp=drivesdk).
 
 ---
 
