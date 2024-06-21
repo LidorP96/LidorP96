@@ -27,6 +27,6 @@ I'll showcase my Knowledge in a range of technical fields, including cybersecuri
 
 ## 💼 Projects
 
-### Linux Projects
+### Hebrew Projects
 
-* [Install Kali 2024.1 - VirtualBox](https://github.com/LidorP96/Linux-Projects/blob/main/Install%20Kali%20-%20VirtualBox.md)
+* [Run Kali-Linux with GUI using WSL 2](https://github.com/LidorP96/Projects-Hebrew/blob/main/Install%20and%20configure%20WSL%202%20in%20Windows%2011%20-%20Hebrew.md)
