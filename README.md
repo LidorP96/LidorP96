@@ -30,3 +30,4 @@ I'll showcase my Knowledge in a range of technical fields, including cybersecuri
 ### Hebrew Projects
 
 * [Run Kali-Linux with GUI using WSL 2](https://github.com/LidorP96/Projects-Hebrew/blob/main/Install%20and%20configure%20WSL%202%20in%20Windows%2011%20-%20Hebrew.md)
+* [Setup a Kali-Linux attack box with a GUI in Azure cloud](https://github.com/LidorP96/Projects-Hebrew/blob/main/Setup%20Azure%20VM%20running%20Kali-Linux%20with%20desktop%20using%20xrdp.md)
